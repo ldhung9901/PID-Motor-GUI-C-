@@ -1,0 +1,10 @@
+C:\Users\Notebook\source\repos\motor\motor\bin\Debug\motor.exe.config
+C:\Users\Notebook\source\repos\motor\motor\bin\Debug\motor.exe
+C:\Users\Notebook\source\repos\motor\motor\bin\Debug\motor.pdb
+C:\Users\Notebook\source\repos\motor\motor\obj\Debug\motor.csprojAssemblyReference.cache
+C:\Users\Notebook\source\repos\motor\motor\obj\Debug\motor.Form1.resources
+C:\Users\Notebook\source\repos\motor\motor\obj\Debug\motor.Properties.Resources.resources
+C:\Users\Notebook\source\repos\motor\motor\obj\Debug\motor.csproj.GenerateResource.cache
+C:\Users\Notebook\source\repos\motor\motor\obj\Debug\motor.csproj.CoreCompileInputs.cache
+C:\Users\Notebook\source\repos\motor\motor\obj\Debug\motor.exe
+C:\Users\Notebook\source\repos\motor\motor\obj\Debug\motor.pdb
