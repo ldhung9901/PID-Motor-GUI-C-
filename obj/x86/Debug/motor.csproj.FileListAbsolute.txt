@@ -1,0 +1,103 @@
+C:\Users\Notebook\Desktop\motor (2)\bin\Debug\WindowsApplication.exe.config
+C:\Users\Notebook\Desktop\motor (2)\bin\Debug\WindowsApplication.exe
+C:\Users\Notebook\Desktop\motor (2)\bin\Debug\WindowsApplication.pdb
+C:\Users\Notebook\Desktop\motor (2)\obj\x86\Debug\motor.csprojAssemblyReference.cache
+C:\Users\Notebook\Desktop\motor (2)\obj\x86\Debug\motor.Form1.resources
+C:\Users\Notebook\Desktop\motor (2)\obj\x86\Debug\motor.motor.Properties.Resources.resources
+C:\Users\Notebook\Desktop\motor (2)\obj\x86\Debug\motor.csproj.GenerateResource.cache
+C:\Users\Notebook\Desktop\motor (2)\obj\x86\Debug\motor.csproj.CoreCompileInputs.cache
+C:\Users\Notebook\Desktop\motor (2)\obj\x86\Debug\WindowsApplication.exe
+C:\Users\Notebook\Desktop\motor (2)\obj\x86\Debug\WindowsApplication.pdb
+C:\Users\Notebook\Desktop\motor_1_C#\bin\Debug\WindowsApplication.exe.config
+C:\Users\Notebook\Desktop\motor_1_C#\bin\Debug\WindowsApplication.exe.manifest
+C:\Users\Notebook\Desktop\motor_1_C#\bin\Debug\WindowsApplication.application
+C:\Users\Notebook\Desktop\motor_1_C#\bin\Debug\WindowsApplication.exe
+C:\Users\Notebook\Desktop\motor_1_C#\bin\Debug\WindowsApplication.pdb
+C:\Users\Notebook\Desktop\motor_1_C#\obj\x86\Debug\motor.csprojAssemblyReference.cache
+C:\Users\Notebook\Desktop\motor_1_C#\obj\x86\Debug\motor.Form1.resources
+C:\Users\Notebook\Desktop\motor_1_C#\obj\x86\Debug\motor.motor.Properties.Resources.resources
+C:\Users\Notebook\Desktop\motor_1_C#\obj\x86\Debug\motor.csproj.GenerateResource.cache
+C:\Users\Notebook\Desktop\motor_1_C#\obj\x86\Debug\motor.csproj.CoreCompileInputs.cache
+C:\Users\Notebook\Desktop\motor_1_C#\obj\x86\Debug\WindowsApplication.exe.manifest
+C:\Users\Notebook\Desktop\motor_1_C#\obj\x86\Debug\WindowsApplication.application
+C:\Users\Notebook\Desktop\motor_1_C#\obj\x86\Debug\WindowsApplication.exe
+C:\Users\Notebook\Desktop\motor_1_C#\obj\x86\Debug\WindowsApplication.pdb
+C:\Users\Notebook\Desktop\motor_1_C#\bin\Debug\ZedGraph.dll
+C:\Users\Notebook\Desktop\motor_1_C#\bin\Debug\ZedGraph.xml
+C:\Users\Notebook\Desktop\motor_1_C#\bin\Debug\de\ZedGraph.resources.dll
+C:\Users\Notebook\Desktop\motor_1_C#\bin\Debug\es\ZedGraph.resources.dll
+C:\Users\Notebook\Desktop\motor_1_C#\bin\Debug\fr\ZedGraph.resources.dll
+C:\Users\Notebook\Desktop\motor_1_C#\bin\Debug\hu\ZedGraph.resources.dll
+C:\Users\Notebook\Desktop\motor_1_C#\bin\Debug\it\ZedGraph.resources.dll
+C:\Users\Notebook\Desktop\motor_1_C#\bin\Debug\ja\ZedGraph.resources.dll
+C:\Users\Notebook\Desktop\motor_1_C#\bin\Debug\pt\ZedGraph.resources.dll
+C:\Users\Notebook\Desktop\motor_1_C#\bin\Debug\ru\ZedGraph.resources.dll
+C:\Users\Notebook\Desktop\motor_1_C#\bin\Debug\sk\ZedGraph.resources.dll
+C:\Users\Notebook\Desktop\motor_1_C#\bin\Debug\sv\ZedGraph.resources.dll
+C:\Users\Notebook\Desktop\motor_1_C#\bin\Debug\tr\ZedGraph.resources.dll
+C:\Users\Notebook\Desktop\motor_1_C#\bin\Debug\zh-cn\ZedGraph.resources.dll
+C:\Users\Notebook\Desktop\motor_1_C#\bin\Debug\zh-tw\ZedGraph.resources.dll
+C:\Users\Notebook\Desktop\motor_1_C#\obj\x86\Debug\motor.csproj.ResolveComReference.cache
+C:\Users\Notebook\Desktop\motor_1_C#\obj\x86\Debug\motor.csproj.CopyComplete
+C:\Users\Notebook\Desktop\motor\motor_1_C#\bin\Debug\WindowsApplication.exe.config
+C:\Users\Notebook\Desktop\motor\motor_1_C#\bin\Debug\WindowsApplication.exe.manifest
+C:\Users\Notebook\Desktop\motor\motor_1_C#\bin\Debug\WindowsApplication.application
+C:\Users\Notebook\Desktop\motor\motor_1_C#\bin\Debug\WindowsApplication.exe
+C:\Users\Notebook\Desktop\motor\motor_1_C#\bin\Debug\WindowsApplication.pdb
+C:\Users\Notebook\Desktop\motor\motor_1_C#\bin\Debug\ZedGraph.dll
+C:\Users\Notebook\Desktop\motor\motor_1_C#\bin\Debug\ZedGraph.xml
+C:\Users\Notebook\Desktop\motor\motor_1_C#\bin\Debug\de\ZedGraph.resources.dll
+C:\Users\Notebook\Desktop\motor\motor_1_C#\bin\Debug\es\ZedGraph.resources.dll
+C:\Users\Notebook\Desktop\motor\motor_1_C#\bin\Debug\fr\ZedGraph.resources.dll
+C:\Users\Notebook\Desktop\motor\motor_1_C#\bin\Debug\hu\ZedGraph.resources.dll
+C:\Users\Notebook\Desktop\motor\motor_1_C#\bin\Debug\it\ZedGraph.resources.dll
+C:\Users\Notebook\Desktop\motor\motor_1_C#\bin\Debug\ja\ZedGraph.resources.dll
+C:\Users\Notebook\Desktop\motor\motor_1_C#\bin\Debug\pt\ZedGraph.resources.dll
+C:\Users\Notebook\Desktop\motor\motor_1_C#\bin\Debug\ru\ZedGraph.resources.dll
+C:\Users\Notebook\Desktop\motor\motor_1_C#\bin\Debug\sk\ZedGraph.resources.dll
+C:\Users\Notebook\Desktop\motor\motor_1_C#\bin\Debug\sv\ZedGraph.resources.dll
+C:\Users\Notebook\Desktop\motor\motor_1_C#\bin\Debug\tr\ZedGraph.resources.dll
+C:\Users\Notebook\Desktop\motor\motor_1_C#\bin\Debug\zh-cn\ZedGraph.resources.dll
+C:\Users\Notebook\Desktop\motor\motor_1_C#\bin\Debug\zh-tw\ZedGraph.resources.dll
+C:\Users\Notebook\Desktop\motor\motor_1_C#\obj\x86\Debug\motor.csprojAssemblyReference.cache
+C:\Users\Notebook\Desktop\motor\motor_1_C#\obj\x86\Debug\motor.csproj.ResolveComReference.cache
+C:\Users\Notebook\Desktop\motor\motor_1_C#\obj\x86\Debug\motor.Form1.resources
+C:\Users\Notebook\Desktop\motor\motor_1_C#\obj\x86\Debug\motor.motor.Properties.Resources.resources
+C:\Users\Notebook\Desktop\motor\motor_1_C#\obj\x86\Debug\motor.csproj.GenerateResource.cache
+C:\Users\Notebook\Desktop\motor\motor_1_C#\obj\x86\Debug\motor.csproj.CoreCompileInputs.cache
+C:\Users\Notebook\Desktop\motor\motor_1_C#\obj\x86\Debug\WindowsApplication.exe.manifest
+C:\Users\Notebook\Desktop\motor\motor_1_C#\obj\x86\Debug\WindowsApplication.application
+C:\Users\Notebook\Desktop\motor\motor_1_C#\obj\x86\Debug\motor.csproj.CopyComplete
+C:\Users\Notebook\Desktop\motor\motor_1_C#\obj\x86\Debug\WindowsApplication.exe
+C:\Users\Notebook\Desktop\motor\motor_1_C#\obj\x86\Debug\WindowsApplication.pdb
+C:\Users\Notebook\Downloads\PID-Motor-GUI-C--master\PID-Motor-GUI-C--master\bin\Debug\WindowsApplication.exe.config
+C:\Users\Notebook\Downloads\PID-Motor-GUI-C--master\PID-Motor-GUI-C--master\bin\Debug\WindowsApplication.exe.manifest
+C:\Users\Notebook\Downloads\PID-Motor-GUI-C--master\PID-Motor-GUI-C--master\bin\Debug\WindowsApplication.application
+C:\Users\Notebook\Downloads\PID-Motor-GUI-C--master\PID-Motor-GUI-C--master\bin\Debug\WindowsApplication.exe
+C:\Users\Notebook\Downloads\PID-Motor-GUI-C--master\PID-Motor-GUI-C--master\bin\Debug\WindowsApplication.pdb
+C:\Users\Notebook\Downloads\PID-Motor-GUI-C--master\PID-Motor-GUI-C--master\bin\Debug\ZedGraph.dll
+C:\Users\Notebook\Downloads\PID-Motor-GUI-C--master\PID-Motor-GUI-C--master\bin\Debug\ZedGraph.xml
+C:\Users\Notebook\Downloads\PID-Motor-GUI-C--master\PID-Motor-GUI-C--master\bin\Debug\de\ZedGraph.resources.dll
+C:\Users\Notebook\Downloads\PID-Motor-GUI-C--master\PID-Motor-GUI-C--master\bin\Debug\es\ZedGraph.resources.dll
+C:\Users\Notebook\Downloads\PID-Motor-GUI-C--master\PID-Motor-GUI-C--master\bin\Debug\fr\ZedGraph.resources.dll
+C:\Users\Notebook\Downloads\PID-Motor-GUI-C--master\PID-Motor-GUI-C--master\bin\Debug\hu\ZedGraph.resources.dll
+C:\Users\Notebook\Downloads\PID-Motor-GUI-C--master\PID-Motor-GUI-C--master\bin\Debug\it\ZedGraph.resources.dll
+C:\Users\Notebook\Downloads\PID-Motor-GUI-C--master\PID-Motor-GUI-C--master\bin\Debug\ja\ZedGraph.resources.dll
+C:\Users\Notebook\Downloads\PID-Motor-GUI-C--master\PID-Motor-GUI-C--master\bin\Debug\pt\ZedGraph.resources.dll
+C:\Users\Notebook\Downloads\PID-Motor-GUI-C--master\PID-Motor-GUI-C--master\bin\Debug\ru\ZedGraph.resources.dll
+C:\Users\Notebook\Downloads\PID-Motor-GUI-C--master\PID-Motor-GUI-C--master\bin\Debug\sk\ZedGraph.resources.dll
+C:\Users\Notebook\Downloads\PID-Motor-GUI-C--master\PID-Motor-GUI-C--master\bin\Debug\sv\ZedGraph.resources.dll
+C:\Users\Notebook\Downloads\PID-Motor-GUI-C--master\PID-Motor-GUI-C--master\bin\Debug\tr\ZedGraph.resources.dll
+C:\Users\Notebook\Downloads\PID-Motor-GUI-C--master\PID-Motor-GUI-C--master\bin\Debug\zh-cn\ZedGraph.resources.dll
+C:\Users\Notebook\Downloads\PID-Motor-GUI-C--master\PID-Motor-GUI-C--master\bin\Debug\zh-tw\ZedGraph.resources.dll
+C:\Users\Notebook\Downloads\PID-Motor-GUI-C--master\PID-Motor-GUI-C--master\obj\x86\Debug\motor.csprojAssemblyReference.cache
+C:\Users\Notebook\Downloads\PID-Motor-GUI-C--master\PID-Motor-GUI-C--master\obj\x86\Debug\motor.csproj.ResolveComReference.cache
+C:\Users\Notebook\Downloads\PID-Motor-GUI-C--master\PID-Motor-GUI-C--master\obj\x86\Debug\motor.Form1.resources
+C:\Users\Notebook\Downloads\PID-Motor-GUI-C--master\PID-Motor-GUI-C--master\obj\x86\Debug\motor.motor.Properties.Resources.resources
+C:\Users\Notebook\Downloads\PID-Motor-GUI-C--master\PID-Motor-GUI-C--master\obj\x86\Debug\motor.csproj.GenerateResource.cache
+C:\Users\Notebook\Downloads\PID-Motor-GUI-C--master\PID-Motor-GUI-C--master\obj\x86\Debug\motor.csproj.CoreCompileInputs.cache
+C:\Users\Notebook\Downloads\PID-Motor-GUI-C--master\PID-Motor-GUI-C--master\obj\x86\Debug\WindowsApplication.exe.manifest
+C:\Users\Notebook\Downloads\PID-Motor-GUI-C--master\PID-Motor-GUI-C--master\obj\x86\Debug\WindowsApplication.application
+C:\Users\Notebook\Downloads\PID-Motor-GUI-C--master\PID-Motor-GUI-C--master\obj\x86\Debug\motor.csproj.CopyComplete
+C:\Users\Notebook\Downloads\PID-Motor-GUI-C--master\PID-Motor-GUI-C--master\obj\x86\Debug\WindowsApplication.exe
+C:\Users\Notebook\Downloads\PID-Motor-GUI-C--master\PID-Motor-GUI-C--master\obj\x86\Debug\WindowsApplication.pdb
